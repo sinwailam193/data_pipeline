@@ -1,2 +1,2 @@
 project:
-    name: dbt-dag
+  name: data-pipeline
